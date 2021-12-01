@@ -3,8 +3,5 @@ The repo for keeping my neovim configuration files. Plugins and color themes wil
 
 ## Plugins
 
-### Wildfire
-Smart selection
-
-### Surround
-Change, delete, add surrounding in pairs
+- **Wildfire:** Smart selection
+- **Surround:** Change, delete, add surrounding in pairs
