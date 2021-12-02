@@ -4,7 +4,4 @@
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'tpope/vim-surround'
-Plug 'gcmt/wildfire.vim'
-
 call plug#end()
